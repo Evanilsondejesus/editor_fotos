@@ -1,0 +1,75 @@
+
+body{
+    background: linear-gradient(to left, #f00 30%, rgb(19, 199, 52) 60%,  rgb(154, 19, 199) 95%       );
+    color: aliceblue;
+     
+    }
+    
+
+     #insirir_img{
+    background-color: rgb(7, 0, 0);
+    width:600px;
+    height: 400px; 
+    border: 1px solid black;
+    padding: 1%;
+    
+     }
+    
+    #tornalidades{
+    display: flex;
+    
+    
+    }
+    
+    #tornalidades > button{
+    flex: 1;
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #conteiner_img{
+    width: 100% - 10px;
+    height: 70%;
+    background-color:rgb(204, 180, 180);
+    padding: 10px;
+    
+    }
+    
+    
+    
+    
+    
+    img{
+    width: 100%;
+    height: 100%;
+    }
+    input[type="range"]{
+    
+    width: 100%;
+    
+    }
+    
+    .tons{
+    font-size: 20px ;
+    background-color: rgb(205, 9, 42);
+    color: red;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
